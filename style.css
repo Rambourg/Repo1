@@ -1,0 +1,60 @@
+{
+    <div class:"contain;">
+
+}
+
+
+body {
+    background-color: #efeee7;
+    font: georgia;
+    font: #333333;
+    margin: 0;
+    padding: 0;
+
+
+
+}
+
+header {
+    background-color: #333333;
+    
+}
+
+h1 {
+    font: white;
+    font-size: 48px;
+    float: center;
+    font-style: italic;
+    background-color: aquamarine;
+    align-content: center;
+
+}
+
+h2 {
+    font-size: 24px;
+    width: 30%;
+    text-align: center;
+    font-size: 24px;
+    float:inline-start;
+    float:inline-end;
+
+}
+
+p{
+    float: left;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img {
+    border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 250px;
+  align-content: left;
+  float: right;
+}
+
+ul{
+    width: 70%;
+}
